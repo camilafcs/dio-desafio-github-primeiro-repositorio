@@ -1,0 +1,13 @@
+Git
+
+- Principais comandos Windows:  git init
+				git add
+				git commit
+				git status
+				git push
+				git pull
+				mkdir
+				cd ..
+				echo
+
+GitHub:
