@@ -1,0 +1,20 @@
+Conceitos importantes
+
+Lógica de programação: consiste em contextualizar a lógica na
+programação de computadores, buscando a melhor sequência de
+ações para solucionar um problema.
+
+Algoritmo: é uma sequência de passos para resolver um problema.
+A sequência dos passos é muito importante!
+
+Pseudocodigo: é uma forma genérica de escrever um algoritmo.
+É usado apenas para aprender a programar.
+
+Variáveis: na programação, uma variável é um objeto capaz de reter 
+e representar um valor a uma expressão. As variáveis podem ser:
+numéricas (números), caracteres, alfanuméricas (letras e números)
+ou lógicas (verdadeiro ou falso). 
+
+Não utilizar acentos ao escrever! Escrever tudo junto, sem espaços!
+
+link útil: studio.code.org
