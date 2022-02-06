@@ -43,7 +43,7 @@ Alguns elementos importantes são:
 
 ## TEXTOS E LINKS EM HTML
 
-Os elementos <h1> até <h6>, falados anteriormente, são essenciais para indicar, visualmente, a importância e a localização de seções de texto na página. 
+Os elementos h1 até h6, falados anteriormente, são essenciais para indicar, visualmente, a importância e a localização de seções de texto na página. 
 Contudo, para textos maiores e mais densos, deve ser utilizado o elemento <p>.
 
 O elemento <p> representa um parágrafo, mas ele não suporta apenas textos: podemos adicionar imagens, códigos, vídeos e vários outros tipos de conteúdo nele.
