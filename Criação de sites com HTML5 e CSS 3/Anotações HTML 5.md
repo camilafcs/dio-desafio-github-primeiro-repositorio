@@ -44,11 +44,11 @@ Alguns elementos importantes são:
 ## TEXTOS E LINKS EM HTML
 
 Os elementos h1 até h6, falados anteriormente, são essenciais para indicar, visualmente, a importância e a localização de seções de texto na página. 
-Contudo, para textos maiores e mais densos, deve ser utilizado o elemento <p>.
+Contudo, para textos maiores e mais densos, deve ser utilizado o elemento p.
 
-O elemento <p> representa um parágrafo, mas ele não suporta apenas textos: podemos adicionar imagens, códigos, vídeos e vários outros tipos de conteúdo nele.
+O elemento p representa um parágrafo, mas ele não suporta apenas textos: podemos adicionar imagens, códigos, vídeos e vários outros tipos de conteúdo nele.
 
-Outro elemento muito interessante e extremamente necessário na web é o <a>, que significa âncora. 
+Outro elemento muito interessante e extremamente necessário na web é o a, que significa âncora. 
 Ele representa um hyperlink, é ele que interliga vários conteúdos e páginas na web. 
 
 ##IMAGENS NO SITE
