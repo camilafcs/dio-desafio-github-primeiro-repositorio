@@ -1,0 +1,36 @@
+ESTRUTURA BÁSICA:
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta>
+	<title>
+</head>
+<body>
+
+
+</body>
+</html>
+
+SEMÂNTICA:
+
+A semântica nos permite descrever mais precisamente o nosso conteúdo. Dá significado ao código.
+
+<section>
+<header>
+<article>
+<aside>
+<footler>
+<h1><h6>
+
+PARA ADICIONAR TEXTOS: <p> </p>
+
+PARA ADICIONAR LINKS: <a> </a>
+
+PARA ADICIONAR IMAGENS: <img>
+
+PARA FAZER LISTAS: <ul> </ul>
+		   <ol> </ol>
+		   <il>
+
+
