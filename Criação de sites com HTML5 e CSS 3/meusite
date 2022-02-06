@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Camila Ferreira</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="Sem título.png" alt="Ilustração do rosto da Camila" class="photo">
+        <h1 id="title">Camila Ferreira</h1>
+    </header>
+    <section>
+        <header>
+            <h2 class="subtitle">Posts</h2>
+        </header>
+        <article class="post">
+            <header>
+                <h3 class="post_title">Post #1</h3>
+                <img src="gato.jpg" alt="foto contendo um gato" class="post_image">
+            </header>
+            <p class="post_content">
+                Lorem ipsum dolor sit amet, <a href="https://www.linkedin.com/in/camila-ferreira-corr%C3%AAa-da-silva-b856b9155/" target="blank">consectetur adipiscing</a> elit. Pellentesque fringilla congue nisl at rhoncus. Fusce eget orci nec ex molestie accumsan. Vivamus arcu tortor, tincidunt vitae feugiat sed, eleifend a sapien. Nam aliquet ut orci at scelerisque. In hac habitasse platea dictumst. Sed pretium massa a turpis tincidunt imperdiet. Duis non elit tellus. Donec id varius quam, eget blandit dui. Sed porta egestas diam, eget accumsan neque rutrum vel. Suspendisse suscipit congue nibh eu faucibus. Donec scelerisque nulla a mi sollicitudin varius.
+            </p>
+        </article>
+    </section>
+    <footer>
+        <ul class="contacts_list">
+            <li>
+                <a href="mailto:camila.fcorrea@yahoo.com.br">camila.fcorrea@yahoo.com.br</a>
+                       </li>
+                       <li>
+                
+                <a href="https://www.linkedin.com/in/camila-ferreira-corr%C3%AAa-da-silva-b856b9155/" target="_blank">linkedin</a>
+                       </li>
+                    <li>
+                        <a href="https://github.com/camilafcs" target="_blank">Github</a>
+                    </li>   
+        </ul>
+    </footer>
+</body>
+</html>
