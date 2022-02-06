@@ -1,4 +1,4 @@
-#Introdução a criação de websites com HTML5
+# Introdução a criação de websites com HTML5
 
 ## ESTRUTURA BÁSICA
 
@@ -23,7 +23,7 @@ A estrutura básica de um documento HTML é bem pequena:
   </body>
 </html>
 
-##SEMÂNTICA
+## SEMÂNTICA
 
 A semântica nos permite descrever mais precisamente o nosso conteúdo. Dá significado ao código.
 
@@ -41,7 +41,7 @@ Alguns elementos importantes são:
 
  - <h1><h6> = representam a importância de um título dentro de uma página.  ATENÇÃO! A única regra é que só pode haver um h1 por página!
 
-##TEXTOS E LINKS EM HTML
+## TEXTOS E LINKS EM HTML
 
 Os elementos <h1> até <h6>, falados anteriormente, são essenciais para indicar, visualmente, a importância e a localização de seções de texto na página. 
 Contudo, para textos maiores e mais densos, deve ser utilizado o elemento <p>.
@@ -58,7 +58,7 @@ Esse é um elemento que não possui tag de fechamento, é bem simples, tem apena
 O “src” é um atributo obrigatório e ele guarda o caminho da imagem. 
 O “alt” não é obrigatório, mas é altamente recomendado para melhorar a sensibilidade. Ele mostra a descrição da foto quando ela não é carregada.
 
-##LISTAS EM HTML
+## LISTAS EM HTML
 
 As listas servem para agrupar uma coleção de itens. Os elementos relacionados a lista são “ul”, “ol” e “li”:
 
