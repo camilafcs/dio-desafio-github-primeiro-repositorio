@@ -13,15 +13,25 @@ Dentro da tag temos o conteúdo do elemento. Por fim, temos a tag de fechamento.
 A estrutura básica de um documento HTML é bem pequena:
 
 -!DOCTYPE html-
+
 -html lang="pt-br"-
+
   -head-
+  
     -title-Título da página-/title-
+    
     -meta charset="utf-8"-
+    
   -/head-
+  
   -body-
+  
     Aqui vai o código HTML que fará seu site aparecer.
+    
   -/body-
+  
 -/html-
+
 
 ## SEMÂNTICA
 
