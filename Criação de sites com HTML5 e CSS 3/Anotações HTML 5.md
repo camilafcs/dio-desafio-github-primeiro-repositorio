@@ -12,16 +12,16 @@ Dentro da tag temos o conteúdo do elemento. Por fim, temos a tag de fechamento.
 
 A estrutura básica de um documento HTML é bem pequena:
 
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <title>Título da página</title>
-    <meta charset="utf-8">
-  </head>
-  <body>
+-!DOCTYPE html-
+-html lang="pt-br"-
+  -head-
+    -title-Título da página-/title-
+    -meta charset="utf-8"-
+  -/head-
+  -body-
     Aqui vai o código HTML que fará seu site aparecer.
-  </body>
-</html>
+  -/body-
+-/html-
 
 ## SEMÂNTICA
 
@@ -29,17 +29,17 @@ A semântica nos permite descrever mais precisamente o nosso conteúdo. Dá sign
 
 Alguns elementos importantes são:
 
- - <section> = representa uma seção genérica de conteúdo, como lista de artigos;
+ - section = representa uma seção genérica de conteúdo, como lista de artigos;
 
- - <header> = pode ser o cabeçalho da página ou de parte da página;
+ - header = pode ser o cabeçalho da página ou de parte da página;
 
- - <article> = representa um conteúdo independente e relevante dentro da página. Um <article> pode conter outros elementos, como header, cabeçalhos, parágrafos e imagens;
+ - article = representa um conteúdo independente e relevante dentro da página. Um <article> pode conter outros elementos, como header, cabeçalhos, parágrafos e imagens;
 
- - <aside> = representa um conteúdo relacionado com o conteúdo principal da página. Normalmente, é representado por uma barra lateral;
+ - aside = representa um conteúdo relacionado com o conteúdo principal da página. Normalmente, é representado por uma barra lateral;
 
- - <footer> = rodapé da página ou de parte da página;
+ - footer = rodapé da página ou de parte da página;
 
- - <h1><h6> = representam a importância de um título dentro de uma página.  ATENÇÃO! A única regra é que só pode haver um h1 por página!
+ - h1-h6 = representam a importância de um título dentro de uma página.  ATENÇÃO! A única regra é que só pode haver um h1 por página!
 
 ## TEXTOS E LINKS EM HTML
 
@@ -53,7 +53,7 @@ Ele representa um hyperlink, é ele que interliga vários conteúdos e páginas 
 
 ##IMAGENS NO SITE
 
-A web também é feita de imagens, e para representa-las temos o elemento <img>. 
+A web também é feita de imagens, e para representa-las temos o elemento img. 
 Esse é um elemento que não possui tag de fechamento, é bem simples, tem apenas dois atributos próprios: o “src” e o “alt”.
 O “src” é um atributo obrigatório e ele guarda o caminho da imagem. 
 O “alt” não é obrigatório, mas é altamente recomendado para melhorar a sensibilidade. Ele mostra a descrição da foto quando ela não é carregada.
